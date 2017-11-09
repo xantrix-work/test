@@ -1,4 +1,4 @@
-#xantrix-work: xantrix
+#xantrix-work: xantrix-work
 # Cache and logs (Symfony2)
 /app/cache/*
 /app/logs/*
